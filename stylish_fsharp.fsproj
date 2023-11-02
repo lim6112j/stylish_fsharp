@@ -9,6 +9,7 @@
   <ItemGroup>
     <Compile Include="src/log.fs" />
     <Compile Include="src/async.fs" />
+    <Compile Include="src/railway.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
